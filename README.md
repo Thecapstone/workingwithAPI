@@ -1,0 +1,2 @@
+# workingwithAPI
+Querysets and managers
